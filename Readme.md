@@ -28,16 +28,20 @@ SurrealDB is a multi-model database that combines the capabilities of a document
 - **Location**: `Database/Surreal_with_Python/`
 - **Description**: Demonstrates how to import data from a CSV file into SurrealDB using Python.
 - **Key Features**: CSV reading, data insertion, error handling
+- **Info File**: [Surreal_with_Python/info.md](Surreal_with_Python/info.md)
+
 
 ### Web Scraping with SurrealDB
 - **Location**: `Database/Surreal_with_ML/Webscrape_Surreal/`
 - **Description**: Scrapes product data from Amazon and stores it in SurrealDB.
 - **Key Features**: Web scraping, asynchronous database operations, data structuring
+- **Info File**: [Surreal_with_ML/Webscrape_Surreal/info.md](Surreal_with_ML/Webscrape_Surreal/info.md)
 
 ### PyTorch and SurrealDB for Linear Regression
 - **Location**: `Database/Surreal_with_ML/PyTorch_Surreal_LR/`
 - **Description**: Integrates SurrealDB with PyTorch for a linear regression task.
 - **Key Features**: Data preprocessing, PyTorch model creation, SurrealDB data storage and retrieval
+- **Info File**: [Surreal_with_ML/PyTorch_Surreal_LR/info.md](Surreal_with_ML/PyTorch_Surreal_LR/info.md)
 
 ---
 
@@ -47,6 +51,7 @@ SurrealDB is a multi-model database that combines the capabilities of a document
 - **Location**: `Database/Surreal_with_Rust/`
 - **Description**: A Rust program that scrapes Amazon product data and stores it in SurrealDB.
 - **Key Features**: Concurrent web scraping, asynchronous programming, SurrealDB integration in Rust
+- **Info File**: [Surreal_with_Rust/info.md](Surreal_with_Rust/info.md)
 
 Each folder contains the corresponding code and an `info.md` file with detailed explanations and learning prompts.
 
@@ -55,7 +60,7 @@ Each folder contains the corresponding code and an `info.md` file with detailed 
 ## Getting Started
 
 1. Clone this repository
-2. Install SurrealDB following the [official documentation](https://surrealdb.com/docs/installation)
+2. Install SurrealDB following the [official documentation](https://surrealdb.com/docs/surrealdb/installation)
 3. Navigate to the desired example directory
 4. Follow the setup instructions below for your chosen integration
 
